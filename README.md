@@ -2,6 +2,10 @@
 ### Project: "Streakflow for Crowd Segmentation"
 ---
 
+### Instructor
+
+[**Dr. Prerana Mukherjee**](https://www.jnu.ac.in/content/prerana)
+
 ### Team
 
 ||Group #5||
@@ -11,5 +15,3 @@
 |**Ajit Singh**|19-11-EC-026|ajit99_soe@jnu.ac.in|
 |**Tanuj Raghav**|19-11-EC-027|tanuj81_soe@jnu.ac.in|
 |**Pragyan Jaiminy**|19-11-EC-028|pragya32_soe@jnu.ac.in|
-
-**Project Repository**: https://github.com/tanujraghav/Streakflow-for-Crowd-Segmentation
